@@ -1,2 +1,1 @@
-# Data_projects_TripleTen
-# Relentless Concepts
+# Data_projects_TripleTen 
